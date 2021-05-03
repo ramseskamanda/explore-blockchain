@@ -1,4 +1,4 @@
-module github.com/ramseskamanda/blockchain-proofs
+module github.com/ramseskamanda/explore-blockchain
 
 go 1.16
 
